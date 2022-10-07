@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbyiinini&theme=dracula&bg_color=30,d56b50,875290)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **bbyiinini/bbyiinini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
